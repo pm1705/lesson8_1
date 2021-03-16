@@ -71,7 +71,7 @@
             android:layout_height="0dp"
             android:layout_weight="20"
             android:onClick="click"
-            android:text="generate"/>
+            android:text="color"/>
 
         <Space
             android:layout_width="match_parent"
